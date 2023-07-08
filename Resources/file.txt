@@ -1,0 +1,5 @@
+name: Afrim
+surname: Patalaku
+address: Shkoder
+number: 0692307603
+age: 34
