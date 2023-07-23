@@ -19,5 +19,6 @@ public class Operatoret {
         System.out.println(varResult);
         int value=3;
         System.out.println(value++);
+        System.out.println(value--);
     }
 }
